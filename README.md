@@ -145,13 +145,132 @@ Me chamo Sávio Souza Cardoso, tenho 36 anos e sou natural de Goiás. Concluí a
 
 ### 📊 Estatísticas
 
-<p>
- <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      style="padding-right: 10px"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=saviosoucardoso&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<h2>Tecnologias e Ferramentas</h2>
 
-</p>
+<table>
+  <tr>
+    <td>
+      <img width="30px" alt="HTML" title="HTML"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+    </td>
+    <td>HTML</td>
+    <td><img src="https://img.shields.io/badge/80%25-E34F26?style=for-the-badge&label=Dom%C3%ADnio&labelColor=0D1117&logo=html5&logoColor=white" /></td>
+  </tr>
+
+  <tr>
+    <td>
+      <img width="30px" alt="CSS" title="CSS"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    </td>
+    <td>CSS</td>
+    <td><img src="https://img.shields.io/badge/75%25-1572B6?style=for-the-badge&label=Dom%C3%ADnio&labelColor=0D1117&logo=css3&logoColor=white" /></td>
+  </tr>
+
+  <tr>
+    <td>
+      <img width="30px" alt="JavaScript" title="JavaScript"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    </td>
+    <td>JavaScript</td>
+    <td><img src="https://img.shields.io/badge/65%25-F7DF1E?style=for-the-badge&label=Dom%C3%ADnio&labelColor=0D1117&logo=javascript&logoColor=black" /></td>
+  </tr>
+
+  <tr>
+    <td>
+      <img width="30px" alt="Java" title="Java"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+    </td>
+    <td>Java</td>
+    <td><img src="https://img.shields.io/badge/55%25-ED8B00?style=for-the-badge&label=Dom%C3%ADnio&labelColor=0D1117&logo=openjdk&logoColor=white" /></td>
+  </tr>
+
+  <tr>
+    <td>
+      <img width="30px" alt="Jira" title="Jira"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
+    </td>
+    <td>Jira</td>
+    <td><img src="https://img.shields.io/badge/70%25-0052CC?style=for-the-badge&label=Dom%C3%ADnio&labelColor=0D1117&logo=jira&logoColor=white" /></td>
+  </tr>
+
+  <tr>
+    <td>
+      <img width="30px" alt="Oracle" title="Oracle"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
+    </td>
+    <td>Oracle</td>
+    <td><img src="https://img.shields.io/badge/50%25-F80000?style=for-the-badge&label=Dom%C3%ADnio&labelColor=0D1117&logo=oracle&logoColor=white" /></td>
+  </tr>
+
+  <tr>
+    <td>
+      <img width="30px" alt="VS Code" title="VS Code"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+    </td>
+    <td>VS Code</td>
+    <td><img src="https://img.shields.io/badge/80%25-007ACC?style=for-the-badge&label=Dom%C3%ADnio&labelColor=0D1117&logo=visualstudiocode&logoColor=white" /></td>
+  </tr>
+
+  <tr>
+    <td>
+      <img width="30px" alt="Cypress" title="Cypress"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
+    </td>
+    <td>Cypress</td>
+    <td><img src="https://img.shields.io/badge/60%25-17202C?style=for-the-badge&label=Dom%C3%ADnio&labelColor=0D1117&logo=cypress&logoColor=white" /></td>
+  </tr>
+
+  <tr>
+    <td>
+      <img width="30px" alt="k6" title="k6"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k6/k6-original.svg" />
+    </td>
+    <td>k6</td>
+    <td><img src="https://img.shields.io/badge/45%25-7D64FF?style=for-the-badge&label=Dom%C3%ADnio&labelColor=0D1117&logo=k6&logoColor=white" /></td>
+  </tr>
+
+  <tr>
+    <td>
+      <img width="30px" alt="Cucumber" title="Cucumber"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg" />
+    </td>
+    <td>Cucumber</td>
+    <td><img src="https://img.shields.io/badge/55%25-23D96C?style=for-the-badge&label=Dom%C3%ADnio&labelColor=0D1117&logo=cucumber&logoColor=white" /></td>
+  </tr>
+
+  <tr>
+    <td>
+      <img width="30px" alt="Playwright" title="Playwright"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
+    </td>
+    <td>Playwright</td>
+    <td><img src="https://img.shields.io/badge/60%25-2EAD33?style=for-the-badge&label=Dom%C3%ADnio&labelColor=0D1117" /></td>
+  </tr>
+
+  <tr>
+    <td>
+      <img width="30px" alt="Postman" title="Postman"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+    </td>
+    <td>Postman</td>
+    <td><img src="https://img.shields.io/badge/70%25-FF6C37?style=for-the-badge&label=Dom%C3%ADnio&labelColor=0D1117&logo=postman&logoColor=white" /></td>
+  </tr>
+
+  <tr>
+    <td>
+      <img width="30px" alt="Git" title="Git"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+    </td>
+    <td>Git</td>
+    <td><img src="https://img.shields.io/badge/75%25-F05032?style=for-the-badge&label=Dom%C3%ADnio&labelColor=0D1117&logo=git&logoColor=white" /></td>
+  </tr>
+
+  <tr>
+    <td>
+      <img width="30px" alt="Selenium" title="Selenium"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
+    </td>
+    <td>Selenium</td>
+    <td><img src="https://img.shields.io/badge/50%25-43B02A?style=for-the-badge&label=Dom%C3%ADnio&labelColor=0D1117&logo=selenium&logoColor=white" /></td>
+  </tr>
+</table>
