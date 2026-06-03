@@ -145,8 +145,6 @@ Me chamo Sávio Souza Cardoso, tenho 36 anos e sou natural de Goiás. Concluí a
 
 ### 📊 Estatísticas
 
-<h2>Tecnologias e Ferramentas</h2>
-
 <table>
   <tr>
     <td>
