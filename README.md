@@ -2,7 +2,8 @@
 
 **`QA Engenieer`**
 
-Me chamo Sávio Souza Cardoso, tenho 36 anos e sou natural de Goiás. Concluí a Faculdade de Sistema de Informação em 2012, Sou QA a mais de 10 anos. Atualmente, estou participando da mentoria M2.0 do professor Julio de Lima. Sólida experiência em testes manuais (funcionais, exploratórios, regressão e integração) e em todo o ciclo de testes: levantamento e validação de requisitos, escrita e manutenção de casos de teste, execução de planos de testes e reporte de defeitos. Familiaridade com ferramentas (Jira/Zephyr, TestLink, Mantis, Enterprise Architect) e bancos de dados (Oracle, SQL Server), Git e Github, JavaScript, HTML e CSS, teste com API REST. Atuação em ambientes ágeis (Scrum/Kanban), suporte a implantação e gestão de configuração de setups. Pró‑ativo, comunicativo, orientado à qualidade e com histórico de orientação a colegas menos experientes.
+QA com mais de 10 anos de experiência em testes manuais, atuando em testes funcionais, exploratórios, regressivos e de integração.
+Sou formado em Sistemas de Informação desde 2012 e tenho experiência em todo o ciclo de testes, incluindo levantamento e validação de requisitos, criação e manutenção de casos de teste, execução de planos de teste e reporte de defeitos. Tenho vivência com Jira/Zephyr, TestLink, Mantis, Enterprise Architect, Oracle, SQL Server, Git, GitHub, JavaScript, HTML, CSS e testes de APIs REST. Também já atuei em ambientes ágeis com Scrum e Kanban, além de apoiar implantações, configurações de ambientes e setups.Sou proativo, comunicativo, orientado à qualidade e gosto de compartilhar conhecimento com colegas menos experientes. Atualmente, participo da mentoria M2.0 do professor Julio de Lima.
 
 <p align="left">
     <a href="saviosoucardoso@gmail.com">
